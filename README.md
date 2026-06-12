@@ -53,7 +53,7 @@ The initial analysis focused on understanding the overall churn rate within the 
 * Compared retained and churned customers.
 * Established a baseline understanding of customer retention.
 
-![Customer Churn Distribution](assets/churn_dist.png)
+![Customer Churn Distribution](customer_churn/assets/churn_dist.png)
 
 ---
 
